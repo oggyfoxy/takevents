@@ -1,0 +1,13 @@
+torch
+numpy
+pandas
+transformers
+sklearn.metrics
+phospho
+python-dotenv
+sklearn.model_selection
+sklearn.multioutput
+sklearn.ensemble
+sklearn.pipeline
+sklearn.feature_extraction.text
+xgboost
